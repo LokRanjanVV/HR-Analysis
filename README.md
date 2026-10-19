@@ -37,7 +37,7 @@ An interactive HR Analytics Dashboard developed using Power BI to analyze workfo
 - A consolidated view of workforce metrics for HR analysis
 
 ## 📁 Project File
-[⬇️ Download HR Analysis Project (.pbix)](C:\HR_Analytics_Project\HR Analysis Project.pbix)
+[⬇️ Download HR Analytics Dashboard (.pbix)](./HR%20Analytics.pbix)
 
 ## 🚀 How to Explore
 1. Download the `.pbix` file from this repository.
